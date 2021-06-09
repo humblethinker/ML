@@ -13,6 +13,6 @@ Software Requirement :
 3. numpy 1.14.5
 
 How to run :
-Navigate to Social directory and simply run :
+Navigate to the project directory and simply run :
 
 python main.py
