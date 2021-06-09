@@ -8,9 +8,9 @@ Features provided :
 
 Software Requirement :
 
-Python 3.5.2
-Opencv(CV2) 4.2.0
-numpy 1.14.5
+1. Python 3.5.2
+2. Opencv(CV2) 4.2.0
+3. numpy 1.14.5
 
 How to run :
 Navigate to Social directory and simply run :
