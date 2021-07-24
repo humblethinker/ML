@@ -1,5 +1,3 @@
-Physical distancing in indoor and outdoor spaces is an essential way to slow down the spread of COVID-19. And it's important to keep following physical distancing recommendations in your community, whether you're in one of the high-risk groups or not. But physical distancing only works if we all participate. And slowing down or preventing the spread of the virus will save lives. Since outdoor spaces are much more prone to the COVID-19 protocol violations, it is imperative that there should be a system in place to monitor public places. In this project we developed such a system based on object detection and homographic transformation.
-
 Features provided :
 
 1. Detect different persons within the area.
